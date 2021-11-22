@@ -20,7 +20,9 @@ char *papieskieMysli[] = {
     "A mozna",
     "Jak najbardziej",
     "Jeszcze jak!",
-    "Okrutnik"
+    "Okrutnik",
+    "Ja wam dam",
+    "A po maturze chodziliśmy na kremufki"
 };
 
 void drawPapa(){
