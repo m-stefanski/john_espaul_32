@@ -20,7 +20,9 @@ char *papieskieMysli[] = {
     "A mozna",
     "Jak najbardziej",
     "Jeszcze jak!",
-    "Okrutnik"
+    "Okrutnik",
+    "Ja wam dam",
+    "A po maturze"
 };
 
 void drawPapa(){
@@ -31,7 +33,7 @@ void drawPapa(){
 }
 
 void fillTextArea(){
-    tft.drawCentreString(papieskieMysli[random(7)], 70, 60, 2);
+    tft.drawCentreString(papieskieMysli[random(9)], 70, 60, 2);
     Serial.println("Filled text area");
 }
 
