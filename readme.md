@@ -16,6 +16,12 @@ This demo utilizes following TTGO capabilities:
 
 It is best opened in vscode with platformio extension.
 
+## But how does it look like?
+
+Simply. Spectacular.
+
+![](in_action.jpg)
+
 ## Documentation
 
 * https://docs.espressif.com/projects/esp-idf/en/latest/esp32/api-reference/index.html
